@@ -1,0 +1,10 @@
+.main {
+  color: grey;
+}
+body {
+  background-color: rgb(214, 191, 255);
+}
+.nav {
+  color: silver;
+  font-weight: bold;
+}
